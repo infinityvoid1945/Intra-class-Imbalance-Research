@@ -1,0 +1,6 @@
+runs/
+work/
+logs/
+*.pt
+*.cache
+__pycache__/
